@@ -1,0 +1,7 @@
+plus between:37px
+under plus:  54px
+description top 49px
+description middle 37px
+pic between 31px
+buy 46px
+commentars 24px
